@@ -30,28 +30,28 @@
 El diagrama de clases presentado muestra una relación entre dos clases: **Curso** y **Estudiante**.
 
 **Significado:**
-La relación de la clase hace referencia a que la clase curso **CONTIENE** a la clase estudiantes y cada uno existe por si mismo.
+-La relación de la clase hace referencia a que la clase curso **CONTIENE** a la clase estudiantes y cada uno existe por si mismo.
 
 **Tipo:**
-Es de tipo agregación, porque se representa con una línea que tiene un rombo en la parte de la clase que es una agregación de la otra clase, 
+-Es de tipo agregación, porque se representa con una línea que tiene un rombo en la parte de la clase que es una agregación de la otra clase, 
 por lo que el curso contiene a los estudiantes pero estos, no dependen exclusivamente de curso para poder existir.
 
 **Multiplicidad:**
-En la clase Curso, el extremo de la relación tiene el valor 1, lo que indica que un curso es único en la relación.
-En la clase Estudiante, el extremo tiene el valor * (cero o más), lo que indica que un curso puede contener múltiples estudiantes.
-Un curso puede tener muchos estudiantes inscritos y cada estudiante pertenece a un curso.
+-En la clase Curso, el extremo de la relación tiene el valor 1, lo que indica que un curso es único en la relación.
+-En la clase Estudiante, el extremo tiene el valor * (cero o más), lo que indica que un curso puede contener múltiples estudiantes.
+-Un curso puede tener muchos estudiantes inscritos y cada estudiante pertenece a un curso.
 
 
  b) **Elementos de las clases. Tipos y propósito.**  
 
 En la clase Curso, nos encontramos con los elementos nombre, código y estudiantes.
 
-**Atributos**
+**Atributos:**
 
-**Tipo:** y **Propósito**
-Nombre: String, Identificar el curso.
-Código: String, Tener una clave única para el código.
-Estudiantes: MutableList, Contiene todos los estudiantes que se inscriben al curso.
+**Tipo:** y **Propósito:**
+-Nombre: String, Identificar el curso.
+-Código: String, Tener una clave única para el código.
+-Estudiantes: MutableList, Contiene todos los estudiantes que se inscriben al curso.
 
-**Métodos**
+**Métodos:**
 Agregar alumno: Nos permite introducir a los estudiantes dentro del curso.
