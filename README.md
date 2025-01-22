@@ -1,5 +1,5 @@
 # Practica_entornos_5.1
-# Preguntas 
+# Preguntas sobre el diagrama de clases 
 
 1. **Interpreta el significado del diagrama de clases.**
 
