@@ -1,3 +1,12 @@
+
+
+
+
+![image](https://github.com/user-attachments/assets/2dda03ac-5be9-405d-b40e-8e78c450878a)
+
+
+
+
 1.  **Interpreta el significado del diagrama de clases.**
 
 a) **Relación entre las clases. Significado, tipo, multiplicidad.** 
