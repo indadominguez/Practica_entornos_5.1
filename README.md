@@ -44,7 +44,7 @@ por lo que el curso contiene a los estudiantes pero estos, no dependen exclusiva
 
  b) **Elementos de las clases. Tipos y propósito.**  
 
-En la clase Curso, nos encontramos con los elementos nombre, código y estudiantes.
+En la clase Curso, nos encontramos con los elementos **nombre, código y estudiantes.**
 
 **Atributos:**
 
