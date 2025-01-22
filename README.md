@@ -44,7 +44,7 @@ por lo que el curso contiene a los estudiantes pero estos, no dependen exclusiva
 
  b) **Elementos de las clases. Tipos y propósito.**  
 
-En la clase Curso, nos encontramos con los elementos **nombre, código y estudiantes.**
+En la clase **Curso**, nos encontramos con los elementos **nombre, código y estudiantes.**
 
 **Atributos:**
 
@@ -54,4 +54,5 @@ En la clase Curso, nos encontramos con los elementos **nombre, código y estudia
 - Estudiantes: MutableList, Contiene todos los estudiantes que se inscriben al curso.
 
 **Métodos:**
-Agregar alumno: Nos permite introducir a los estudiantes dentro del curso.
+- agregarAlumno: Nos permite introducir a los estudiantes dentro del curso.
+- mostrarEstudiantes: Muestra la lista de los estudiantes ya registrados en el curso.
