@@ -25,12 +25,9 @@ c) **Crear main (para probar el sistema).**
 
 ## a) Relación entre las clases. Significado, tipo, multiplicidad. 
 
-El diagrama de clases presentado muestra una relación entre dos clases: Curso y Estudiante. Aquí está la interpretación:
+El diagrama de clases presentado muestra una relación entre dos clases: Curso y Estudiante.
 
-a) Relación entre las clases:
-Relación: Contiene
-Significado:
-Un Curso contiene a uno o más Estudiantes. Esto indica que un curso puede tener múltiples estudiantes inscritos, y un estudiante puede estar inscrito en un curso.
+a) La relación de la clase hace referencia a que la clase curso **CONTIENE** a la clase estudiante, es de tipo agregación, ya que se representa con una línea que tiene un rombo en la parte de la clase que es una agregación de la otra clase 
 
 Tipo:
 Es una relación de composición (representada por el rombo lleno). La composición significa que los estudiantes están estrechamente ligados al curso, y si el curso deja de existir, los estudiantes relacionados con ese curso no estarían más asociados dentro de este contexto.
