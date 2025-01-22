@@ -41,6 +41,7 @@
 - En la clase Estudiante, el extremo tiene el valor * (cero o más), lo que indica que un curso puede contener múltiples estudiantes.
 - Un curso puede tener muchos estudiantes inscritos y cada estudiante pertenece a un curso.
 
+---
 
  b) **Elementos de las clases. Tipos y propósito.**  
 
@@ -56,6 +57,9 @@
 **Métodos:**
 - agregarAlumno: Nos permite introducir a los estudiantes dentro del curso.
 - mostrarEstudiantes: Muestra la lista de los estudiantes ya registrados en el curso.
+
+
+
 
    **b.2)** En la clase **Estudiante**, nos encontramos con los elementos **nombre, DNI e inscribirse**
 
