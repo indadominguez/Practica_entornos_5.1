@@ -30,10 +30,10 @@
    El diagrama de clases presentado muestra una relación entre dos clases: **Curso** y **Estudiante**.
 
 **Significado:**
-- La relación de la clase hace referencia a que la clase curso **CONTIENE** a la clase estudiantes y cada uno existe por si mismo.
+La relación de la clase hace referencia a que la clase curso **CONTIENE** a la clase estudiantes y cada uno existe por si mismo.
 
 **Tipo:**
-- Es de tipo agregación, porque se representa con una línea que tiene un rombo en la parte de la clase que es una agregación de la otra clase, 
+Es de tipo agregación, porque se representa con una línea que tiene un rombo en la parte de la clase que es una agregación de la otra clase, 
 por lo que el curso contiene a los estudiantes pero estos, no dependen exclusivamente de curso para poder existir.
 
 **Multiplicidad:**
