@@ -25,7 +25,7 @@
 
 ## 1. Interpreta el significado del diagrama de clases
 
- a) **Relación entre las clases. Significado, tipo, multiplicidad.**
+ # a) Relación entre las clases. Significado, tipo, multiplicidad.
 
    El diagrama de clases presentado muestra una relación entre dos clases: **Curso** y **Estudiante**.
 
