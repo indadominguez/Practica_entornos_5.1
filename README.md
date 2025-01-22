@@ -70,6 +70,18 @@
 **Métodos:**
 - Inscribirse: Permite al estudiante poder inscribirse en el curso.
 
+---
 
+c) **Significado del método agregarAlumno() y Funcionamiento.**  
+
+**Significado:**
+El método agregarAlumno pertenece a la clase Curso y está diseñado para añadir un objeto de tipo Estudiante a la lista de estudiantes que forman parte del curso. 
+Este método permite que un estudiante quede asociado a un curso específico.
+
+**Funcionamiento:**
+- El método recibe como parámetro un objeto de la clase Estudiante, que representa al estudiante que será inscrito en el curso.
+- Dentro del método, el objeto Estudiante que se pasa como argumento es agregado a la lista estudiantes de la clase Curso.
+- Después de ejecutar el método, el estudiante se registra como parte de los estudiantes asociados al curso.
+El curso "contendrá" a ese estudiante en su lista interna 
 
 
