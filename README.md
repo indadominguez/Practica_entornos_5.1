@@ -5,7 +5,7 @@
 
 1. **Interpreta el significado del diagrama de clases.**
 
-a) **Relación entre las clases. Significado, tipo, multiplicidad.** 
+   a) **Relación entre las clases. Significado, tipo, multiplicidad.** 
 
 b) **Elementos de las clases. Tipos y propósito.**  
 
