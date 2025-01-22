@@ -37,9 +37,9 @@ El diagrama de clases presentado muestra una relación entre dos clases: **Curso
 por lo que el curso contiene a los estudiantes pero estos, no dependen exclusivamente de curso para poder existir.
 
 **Multiplicidad:**
--En la clase Curso, el extremo de la relación tiene el valor 1, lo que indica que un curso es único en la relación.
--En la clase Estudiante, el extremo tiene el valor * (cero o más), lo que indica que un curso puede contener múltiples estudiantes.
--Un curso puede tener muchos estudiantes inscritos y cada estudiante pertenece a un curso.
+- En la clase Curso, el extremo de la relación tiene el valor 1, lo que indica que un curso es único en la relación.
+- En la clase Estudiante, el extremo tiene el valor * (cero o más), lo que indica que un curso puede contener múltiples estudiantes.
+- Un curso puede tener muchos estudiantes inscritos y cada estudiante pertenece a un curso.
 
 
  b) **Elementos de las clases. Tipos y propósito.**  
