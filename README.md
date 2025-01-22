@@ -1,7 +1,7 @@
 # Practica_entornos_5.1
 # Preguntas sobre el diagrama de clases 
 
-
+---
 
 1. **Interpreta el significado del diagrama de clases.**
 
@@ -21,7 +21,9 @@ b) **Crear relaciones**
 
 c) **Crear main (para probar el sistema).** 
 
-a) **Relación entre las clases. Significado, tipo, multiplicidad.** 
+---
+
+## a) Relación entre las clases. Significado, tipo, multiplicidad. 
 
 El diagrama de clases presentado muestra una relación entre dos clases: Curso y Estudiante. Aquí está la interpretación:
 
