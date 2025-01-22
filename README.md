@@ -11,13 +11,13 @@
 
    c) **Significado del método agregarAlumno(). Funcionamiento.**  
 
-   d) **Significado del método inscribirse()** 
+   d) **Significado del método inscribirse().** 
 
 2. **Generación de código a partir del diagrama.**  
 
-   a) **Crear clases** 
+   a) **Crear clases.** 
 
-   b) **Crear relaciones** 
+   b) **Crear relaciones.** 
 
    c) **Crear main (para probar el sistema).** 
 
