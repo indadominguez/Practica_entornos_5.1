@@ -89,3 +89,7 @@ d) **Significado del método inscribirse.()**
 
 El método inscribirse pertenece a la clase Estudiante y permite que un estudiante se registre o se inscriba en un curso específico, este método es fundamental 
 para establecer la relación entre un Estudiante y un Curso, agregando al estudiante en la lista de estudiantes del curso.
+
+---
+
+## 2. **Generación de código a partir del diagrama.** 
