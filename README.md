@@ -44,7 +44,7 @@
 
  b) **Elementos de las clases. Tipos y propósito.**  
 
-## En la clase **Curso**, nos encontramos con los elementos **nombre, código, estudiantes, agregarAlumno y mostrarEstudiantes.**
+   **b.1)** En la clase **Curso**, nos encontramos con los elementos **nombre, código, estudiantes, agregarAlumno y mostrarEstudiantes.**
 
 **Atributos:**
 
@@ -57,7 +57,7 @@
 - agregarAlumno: Nos permite introducir a los estudiantes dentro del curso.
 - mostrarEstudiantes: Muestra la lista de los estudiantes ya registrados en el curso.
 
-   En la clase **Estudiante**, nos encontramos con los elementos **nombre, DNI e inscribirse**
+   **b.2)** En la clase **Estudiante**, nos encontramos con los elementos **nombre, DNI e inscribirse**
 
 **Atributos:**
 
