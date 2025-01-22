@@ -25,7 +25,7 @@
 
 ## 1. Interpreta el significado del diagrama de clases
 
- **a) Relación entre las clases. Significado, tipo, multiplicidad.**
+ a) **Relación entre las clases. Significado, tipo, multiplicidad.**
 
 El diagrama de clases presentado muestra una relación entre dos clases: **Curso** y **Estudiante**.
 
@@ -40,3 +40,7 @@ por lo que el curso contiene a los estudiantes pero estos, no dependen exclusiva
 En la clase Curso, el extremo de la relación tiene el valor 1, lo que indica que un curso es único en la relación.
 En la clase Estudiante, el extremo tiene el valor * (cero o más), lo que indica que un curso puede contener múltiples estudiantes.
 Un curso puede tener muchos estudiantes inscritos y cada estudiante pertenece a un curso.
+
+---
+
+ b) **Elementos de las clases. Tipos y propósito.**  
