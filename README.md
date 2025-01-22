@@ -1,7 +1,7 @@
 # Practica_entornos_5.1
 # Preguntas 
 
-   **1.Interpreta el significado del diagrama de clases.**
+1. **Interpreta el significado del diagrama de clases.**
 
 a) **Relación entre las clases. Significado, tipo, multiplicidad.** 
 
