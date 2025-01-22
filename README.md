@@ -41,6 +41,17 @@ En la clase Curso, el extremo de la relación tiene el valor 1, lo que indica qu
 En la clase Estudiante, el extremo tiene el valor * (cero o más), lo que indica que un curso puede contener múltiples estudiantes.
 Un curso puede tener muchos estudiantes inscritos y cada estudiante pertenece a un curso.
 
----
 
  b) **Elementos de las clases. Tipos y propósito.**  
+
+En la clase Curso, nos encontramos con los elementos nombre, código y estudiantes.
+
+**Atributos**
+
+**Tipo:** y **Propósito**
+Nombre: String, Identificar el curso.
+Código: String, Tener una clave única para el código.
+Estudiantes: MutableList, Contiene todos los estudiantes que se inscriben al curso.
+
+**Métodos**
+Agregar alumno: Nos permite introducir a los estudiantes dentro del curso.
