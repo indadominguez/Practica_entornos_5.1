@@ -9,7 +9,7 @@
 
    b) **Elementos de las clases. Tipos y propósito.**  
 
-   c) **Significado del método agregarAlumno(). Funcionamiento.**  
+   c) **Significado del método agregarAlumno() y Funcionamiento.**  
 
    d) **Significado del método inscribirse().** 
 
