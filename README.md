@@ -27,7 +27,7 @@
 
  a) **Relación entre las clases. Significado, tipo, multiplicidad.**
 
-El diagrama de clases presentado muestra una relación entre dos clases: **Curso** y **Estudiante**.
+   El diagrama de clases presentado muestra una relación entre dos clases: **Curso** y **Estudiante**.
 
 **Significado:**
 - La relación de la clase hace referencia a que la clase curso **CONTIENE** a la clase estudiantes y cada uno existe por si mismo.
@@ -44,7 +44,7 @@ por lo que el curso contiene a los estudiantes pero estos, no dependen exclusiva
 
  b) **Elementos de las clases. Tipos y propósito.**  
 
-En la clase **Curso**, nos encontramos con los elementos **nombre, código y estudiantes.**
+   En la clase **Curso**, nos encontramos con los elementos **nombre, código, estudiantes, agregarAlumno y mostrarEstudiantes.**
 
 **Atributos:**
 
@@ -56,3 +56,18 @@ En la clase **Curso**, nos encontramos con los elementos **nombre, código y est
 **Métodos:**
 - agregarAlumno: Nos permite introducir a los estudiantes dentro del curso.
 - mostrarEstudiantes: Muestra la lista de los estudiantes ya registrados en el curso.
+
+   En la clase **Estudiante**, nos encontramos con los elementos **nombre, DNI e inscribirse**
+
+**Atributos:**
+
+**Tipo:** y **Propósito:**
+- Nombre: String, Representa el nombre del estudiante.
+- DNI: String, Es el identificador único de cada estudiante.
+
+**Métodos:**
+- Inscribirse: Permite al estudiante poder inscribirse en el curso.
+
+
+
+
