@@ -83,4 +83,9 @@ Este método permite que un estudiante quede asociado a un curso específico.
 - Dentro del método, el objeto Estudiante que se pasa como argumento es agregado a la lista estudiantes de la clase Curso.
 - Después de ejecutar el método, el estudiante se registra como parte de los estudiantes asociados al curso, el curso "contendrá" a ese estudiante en su lista interna 
 
+---
 
+d) **Significado del método inscribirse.()**
+
+El método inscribirse pertenece a la clase Estudiante y permite que un estudiante se registre o se inscriba en un curso específico, este método es fundamental 
+para establecer la relación entre un Estudiante y un Curso, agregando al estudiante en la lista de estudiantes del curso.
